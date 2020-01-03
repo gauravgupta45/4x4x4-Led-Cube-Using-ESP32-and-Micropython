@@ -1,6 +1,8 @@
 # 4x4x4-Led-Cube-Using-ESP32-and-Micropython
 4x4x4 Led Cube with ESP32 and Micropython. Added a web server to control the cube with Android Application.
 
+![img_cover](/media/cover.jpg)
+
 # Installing Micropython on ESP32
 Before running the `main.py` script, you must've install [Micropython Firmare](http://micropython.org/download) on your ESP32 dev kit.
 Follow the steps to install MicroPython on your ESP32:
