@@ -4,9 +4,9 @@
 ![img_cover](/media/cover.jpg)
 
 # Installing Micropython on ESP32
-Before running the `main.py` script, you must've install [Micropython Firmare](http://micropython.org/download) on your ESP32 dev kit.
+Before running the `main.py` script, you must've install [Micropython Firmare](http://micropython.org) on your ESP32 dev kit.
 Follow the steps to install MicroPython on your ESP32:
-* [Download](http://micropython.org/resources/firmware/esp32-idf3-20200103-v1.12-35-g10709846f.bin) the firmware.
+* [Download](https://micropython.org/download) the firmware.
 * To flash the firmware on esp32, we''ll need esptool. You can install that by running following pip command `pip install esptool`
 * To validate if it is installed, issue the following command in terminal: `esptool`.
 * Connect your ESP32 to your pc and get the COM port of ESP32. 
