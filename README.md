@@ -78,4 +78,4 @@ D-32
 ![img4](/connections/ESP32-DOIT-DEVKIT-V1-Board-Pinout-36-GPIOs-updated.jpg)
 
 # Reference:
-Follow this amazing tutorial for constructing the LED Cube: [Instructables](https://www.instructables.com/id/4x4x4-LED-Cube-Arduino-Uno/)
+Follow this awesome tutorial for constructing the LED Cube: [Instructables](https://www.instructables.com/id/4x4x4-LED-Cube-Arduino-Uno/)
